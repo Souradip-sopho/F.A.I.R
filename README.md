@@ -1,7 +1,10 @@
-# FAIR
+
 # First Autonomous Intelligent Robot
 
 There are two sub-projects under fair : 
+
+
+
 1. Plane Segmentation on FAIR-  Interfacing Kinect2.0 with with ROS to get Point Cloud Data. 
 The task was to display normal vector arrows of the planes in the same colour as the points belonging to the plane. 
 To visualize the incoming data I used ROS visualization tool (RVIZ).
